@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Youtube Keyword App</string>
+    <string name="save">Save</string>
+    <string name="enter_subject">Enter Keyword</string>
+    <string name="empty_keyword_warning">Keyword cannot be empty</string>
+    <string name="error_player">There was an error initializing the Player (%1$s)</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_keyword">Change Keyword</string>
+</resources>
