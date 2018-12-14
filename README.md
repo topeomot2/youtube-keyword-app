@@ -1,11 +1,12 @@
 # youtube-keyword-app
 
-###Enter Keyword and See the top YouTube Videos related to the Keyword
+#### Enter Keyword and See the top YouTube Videos related to the Keyword
 
-An App I use to test stuff. I will be updating it with the latest Apis
-
-
-###Screenshots
+An App I use to test stuff. I will be updating it with the latest Apis from Google and libraries from Kotlin
 
 
-![alt text](https://github.com/topeomot2/youtube-keyword-app/master/screenshots/1.png "App Screen Shot 1")
+### Screenshots
+
+|<img src="https://github.com/topeomot2/youtube-keyword-app/blob/master/screenshots/1.jpg" alt="Screen Shot 1" width="250" height="444">|<img src="https://github.com/topeomot2/youtube-keyword-app/blob/master/screenshots/2.jpg" alt="Screen Shot 2" width="250" height="444">| 
+
+<img src="https://github.com/topeomot2/youtube-keyword-app/blob/master/screenshots/3.jpg" alt="Screen Shot 3" width="444" height="250">
