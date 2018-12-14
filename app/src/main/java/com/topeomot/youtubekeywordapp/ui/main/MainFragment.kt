@@ -43,8 +43,9 @@ class MainFragment : Fragment() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         (activity as MainActivity).activityComponent.inject(this)
-        if(!arguments!!.isEmpty)
-            keyword = arguments!!.getString(EXTRA_KEYWORD) ?: ""
+
+        keyword = arguments?.getString(EXTRA_KEYWORD) ?: ""
+
     }
 
     override fun onCreateView(
