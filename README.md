@@ -2,7 +2,10 @@
 
 #### Enter Keyword and See the top YouTube Videos related to the Keyword
 
-An App I use to test stuff. I will be updating it with the latest Apis from Google and libraries from Kotlin
+An App I use to test stuff. I will be updating it with the latest Apis from Google and libraries from Kotlin.
+
+You can try it out here Download (or download the latest release from GitHub)
+[Download YouTubeKeyword App](https://drive.google.com/open?id=1xk3umdXnc0wtbVOc2azDT9FrJT98fReW "You can try it out here Download")
 
 
 ### Screenshots
